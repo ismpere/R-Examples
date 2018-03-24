@@ -1,0 +1,7 @@
+"Nombre"	"Sexo"	"Peso"	"Altura"	"Colesterol"	"Edad"
+"Jose Luis Martinez Izquierdo"	"H"	85	179	182	1
+"Rosa Diaz Diaz"	"M"	65	173	232	2
+"Javier Garcia Sanchez"	"H"	71	181	191	3
+"Carmen Lopez Pinzon"	"M"	65	170	200	4
+"Marisa Lopez Collado"	"M"	51	158	128	5
+"Antonio Ruiz Cruz"	"H"	66	174	249	6
