@@ -1,0 +1,84 @@
+help(mean)
+apropos("max")
+apropos("maximo")
+apropos("max")
+help(max)
+apropos("mx")
+apropos("max")
+max81,2,3,4,5)
+max(1,2,3,4,5)
+help.search("plot")
+?? "plot"
+apropos("var?")
+apropos("var(?)")
+apropos("var(*)")
+apropos("^var(*)")
+apropos("var")
+apropos("^var")
+apropos("^.{1,35}$")
+apropos("^.{5,7}$")
+clearPushBack()
+amigos <- c(27,23,2924,31)
+edades <- c(27,23,2924,31)
+media <- mean(edades)
+edades <- c(27,23,29,24,31)
+media <- mean(edades)
+write(media, file="amigos")
+print(media)
+savehistory("~/Documentos/GitRepos/R-examples/Ejercicios-R-Introduccion/comandos.Rhistory")
+savehistory("~/Documentos/GitRepos/R-examples/Ejercicios-R-Introduccion/prueba.txt")
+savehistory("~/Documentos/GitRepos/R-examples/Ejercicios-R-Introduccion/prueba2")
+x <- c(1,2,3,4,5)
+assign(x,c(1,2,3,4,5))
+assign("y",c(1,2,3,4,5))
+x <- seq(from=1, to=5)
+z <- seq(from=1, to=5)
+k <- numbers[1:5]
+k <- 1:5
+assign("p", 1:5)
+p <- vector("integer", 5)
+p <- vector("numeric", 5)
+x <- [p(p > 0)]
+x <- [which(p > 0)]
+x <- p[which(p > 0)]
+x <- c(2,-5,4,6,-2,8)
+y <- x[which(x > 0)]
+z <- x[which(x < 0)]
+v <- x[1:]
+v <- x[1:5]
+v <- x[1:6]
+v <- x[2:6]
+w <- x[seq(1,length(x),2)]
+v <- x[seq(2,length(x))]
+v <- x[2:length(x)]
+x <- 1:6
+x <- 1:6
+x <- 7:8
+x <- 1:6
+y <- 7:8
+z <- 9:12
+t <- x+x
+print(x+x)
+print(x+y)
+print(x+z)
+m1 <- rbind(x[seq(1,length(x),2)], x[seq(2,length(x),2)])
+print(m1)
+m2 <- cbing(x[1:3], x[4:6])
+m2 <- cbind(x[1:3], x[4:6])
+print(m2)
+m3 <- cbind(x[1:3], x[4:6], x[1:3])
+print(m3)
+m4 <- cbind(x[1:3], x[4:6], x[1:3])
+m3 <- t(m2)
+print(m3)
+m4 <- cbind(m2, x[1:3])
+print(m4)
+outer(m1,m1)
+print(m1*m1)
+print(m1)
+print(m1%*%m1)
+?? "plot"
+apropos("{5,7}")
+apropos(".{5,7}")
+apropos("^.{5,7}$")
+savehistory("~/Documentos/GitRepos/R-examples/Ejercicios-R-Introduccion/comanditos.txt")
